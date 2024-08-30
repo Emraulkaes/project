@@ -1,0 +1,130 @@
+/* Base CSS */
+img {
+    max-width: 100%;}
+.alignleft {
+    float: left;
+    margin-right: 15px;
+}
+.alignright {
+    float: right;
+    margin-left: 15px;
+}
+.aligncenter {
+    display: block;
+    margin: 0 auto 15px;
+}
+
+a:hover { text-decoration: none; }
+
+.header-area{
+    background: url(img/golden.jpg);
+    position:;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 700px;
+}
+.header-text {margin-top: 17%;
+			 color:#ffffff;
+}
+.header-text h3{font-size:40px;
+			 font-family:DroidSerif Italic;
+}
+.header-text h1{font-size:70px;
+}			 
+.logo {
+    padding: 30px;
+}
+.mainmenu ul.nav.navber-nav {
+    float: none;
+    font-size: 20px;
+    text-align: right;
+}
+.mainmenu ul.nav.navber-nav li {
+    display: inline-block;
+    float: none;
+    position: relative;
+	padding:30px;
+}
+.mainmenu ul.nav.navber-nav li a {
+    color: #fff;
+    padding:5px 5px;
+}
+.mainmenu ul.nav.navber-nav li a:hover{
+    background:none;color:#cccc;
+}
+.btn-filled{color:#ffffff;
+            display:inline-block;
+			margin:px;
+			padding:20px 40px;
+			background:#fed136;
+			border:1px solid black;
+			border-radius:3px;
+			
+}
+.services{padding:100px}
+.services h1{}
+.services h6{margin-bottom:100px;
+             font-family:Droidserif,Italic;
+			 color:#777777;
+}
+.services p{font-size:16px;
+             font-family:Myriad Pro;
+			 color:#777777;
+			 }
+.portfolio_area {background:#f7f7f7;
+                 padding:100px;
+				 padding-bottom:50px;
+			}
+.portfolio_area h6{font-family:Droidserif,Italic;
+			 color:#777777;
+			 padding-bottom:50px;
+			 }
+.img-area{margin:0px;
+          padding:20px;
+}
+.About_area{padding:50px;
+          }
+.About_area hr{width:100%;padding:1px;margin:5px;}		  
+.About_area h6{font-family:Droidserif,Italic;
+			 color:#777777;
+			 padding-bottom:70px;}	
+.About_area h3{color:black;text-align:right;font-family:bold;}			 
+.About_area p{font-size:16px;
+             font-family:Myriad Pro;
+			 color:#777777;
+			 text-align:right;
+			 }	
+.team_area{background:#f9f9f9;
+               padding:100px ;
+}
+.team_area p{color:#777777;
+             font-family:Myriad Pro;
+}
+.team_area h6{font-family:Droidserif,Italic;
+				color:#777777;
+			padding-bottom:50px; }
+.logo_area{padding:30px;
+            margin:30px;}
+			 
+.contact{background:gray;
+         opacity:;
+			padding:50px;}
+			
+.big_footer_title{font-size:16px;color:black;padding:50px 0px;font-family:Droidserif,Italic; }
+.form-group{height:50%;width:50%;padding:0px;margin-left:250px;}	
+.social_icon {}
+			
+.footer{text-align:none;
+        color:#777777;
+		font-family:Myriad Pro;
+		padding:5px 5px;
+}
+.text{
+      margin:20px;
+	  padding:20px
+}
+
+
+
+
